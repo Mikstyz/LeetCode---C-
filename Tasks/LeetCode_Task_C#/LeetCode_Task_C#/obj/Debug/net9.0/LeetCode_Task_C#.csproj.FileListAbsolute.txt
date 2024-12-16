@@ -1,0 +1,14 @@
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\bin\Debug\net9.0\LeetCode_Task_C#.exe
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\bin\Debug\net9.0\LeetCode_Task_C#.deps.json
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\bin\Debug\net9.0\LeetCode_Task_C#.runtimeconfig.json
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\bin\Debug\net9.0\LeetCode_Task_C#.dll
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\bin\Debug\net9.0\LeetCode_Task_C#.pdb
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.AssemblyInfoInputs.cache
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.AssemblyInfo.cs
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.csproj.CoreCompileInputs.cache
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.dll
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\refint\LeetCode_Task_C#.dll
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.pdb
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\LeetCode_Task_C#.genruntimeconfig.cache
+C:\Users\mks\Documents\GitHub\LeetCode-Csharp-\Tasks\LeetCode_Task_C#\LeetCode_Task_C#\obj\Debug\net9.0\ref\LeetCode_Task_C#.dll
